@@ -6,12 +6,12 @@
 
 List of Plugs: 
 
-  Cyberdream theme
-  Autocomplete + LSP 
-  Autoexplorer
-  Java formatter
-  NerdTree
-  Restore position on file
+- Cyberdream theme
+- Autocomplete + LSP 
+- Autoexplorer
+- Java formatter
+- NerdTree
+- Restore position on file
 
 
 
